@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hwb(188 36% 18% / 0.816);
+}
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_text{
+color:white
+
+}
+.ily{
+
+    color:red
+}
